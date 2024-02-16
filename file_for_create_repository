@@ -1,0 +1,13 @@
+Создали локальный репозиторий
+Сделали, что нужно, папки добавили, файлы и т.д.
+Создали репозиторий на GitHub
+Выбрали SSH
+Для связи: git remote set-url origin git@github.com:Yulia222805/git-status-lesson.git,
+где git@github.com:Yulia222805/git-status-lesson - SSH
+Проверка состояния  git remote -v
+Добавить git push -u origin master_
+Если что переименовать: git branch -m master_
+
+git add file - добавить для отслеживания
+git commit -m 'message for commit' - закоммитить, добавить на репозиторий
+
